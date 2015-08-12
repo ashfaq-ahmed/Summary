@@ -1,3 +1,10 @@
+Description
+-----------
+Summary is a minimal blog theme, clean and simple but stylish at the same 
+time which focuses mainly on the content presentation. Just install it and 
+start creating articles and basic pages.
+<h2><a href="http://nustians.com/summary">Demonstration</a></h2>
+
 Menu Settings
 -------------
 Theme allows two styles, One , regular menu style, for that, you need to enable
