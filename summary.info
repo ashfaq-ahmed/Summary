@@ -1,0 +1,10 @@
+name = Summary
+description = Minimal Blog Theme
+core = 7.x
+base theme = bootstrap
+
+stylesheets[all][] = css/bootstrap-social.css
+stylesheets[all][] = css/main.css
+
+scripts[] = js/pace.min.js
+scripts[] = js/custom.js
